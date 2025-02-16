@@ -5,7 +5,7 @@ body {
 }
 
 .car h2 {
-    font-family: 'Gill Sans';
+    font-family: Arial;
     font-weight: 900;
     color: rgb(23, 28, 32);
     text-align: center;
@@ -13,7 +13,7 @@ body {
 }
 
 .people h2 {
-    font-family: 'Gill Sans';
+    font-family: Arial;
     font-weight: 900;
     color: rgb(23, 28, 32);
     text-align: center;
