@@ -15,7 +15,7 @@ body {
 }
 
 .content3 {
-    background-color: rgb(168, 99, 232);
+    background-color: rgba(70,150,229,255);
     color: white;
     border: 0px;
     width: 110px;
@@ -37,7 +37,7 @@ body {
 
 .content5 {
     text-align: center;
-    background-color: rgb(237, 248, 248);
+    background-color: rgba(247,247,247,255);
     height: 200px;
     line-height: 6;
     display: block;
